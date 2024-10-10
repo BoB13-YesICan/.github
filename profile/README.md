@@ -8,7 +8,7 @@ Welcome to the **YesICan** GitHub organization! We are the **bob13gi** project t
 ## Projects
 - **AI-based Intrusion Detection System (IDS)**: Implementing machine learning techniques for anomaly detection in CAN networks.
 - **CAN Protocol Analysis**: Developing tools and algorithms for analyzing and securing in-vehicle networks.
-
+  
 ## Tech Stack & Tools
 <div align="center">
 
@@ -46,6 +46,9 @@ If you're interested in collaborating with us or have suggestions, feel free to 
     <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YesICan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YesICan&layout=compact)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=B0E0E6" width="100%">
