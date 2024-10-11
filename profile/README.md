@@ -75,6 +75,6 @@ Welcome to the **YesICan** GitHub organization! We are the **bob13gi** project t
 
 ## Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BoB13-YesICan&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoB13-YesICan&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YesICan&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YesICan&layout=compact" />
 </div>
