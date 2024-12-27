@@ -67,7 +67,8 @@
 </div>
 
 ## About Us
-Welcome to the **YesICan** GitHub organization! We are the **bob13gi** project team, focused on C/C++ development, STM firmware, Raspberry Pi projects, and CANHAT applications. Our goal is to create innovative solutions in the field of automotive cybersecurity and embedded systems.
+Welcome to the **YesICan** GitHub organization! We are the **bob13th** project team, focused on C/C++ development, STM firmware, Raspberry Pi projects, and CANHAT applications. Our goal is to create innovative solutions in the field of automotive cybersecurity and embedded systems.
+Best of Best (BoB) is a next-generation security leader training program hosted by the Korea Information Technology Research Institute.
 
 ## Projects
 - **AI-based Intrusion Detection System (IDS)**: Implementing machine learning techniques for anomaly detection in CAN networks.
