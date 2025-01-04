@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/jj9216jj@ajou.ac.kr-4682B4?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Developer-4682B4?style=for-the-badge&logoColor=white" />&nbsp;
   <br>
-  <h3>박철준(Cheoljun Park) - cheoljun99@kw.ac.kr - Firmware Developer (Contact me) <h3>
+  <h3>박철준(Cheoljun Park) - cheoljun99@kw.ac.kr - Firmware & Software Developer (Contact me) <h3>
 </div>
 
 <div align="center">
