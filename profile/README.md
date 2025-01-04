@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/jj9216jj@ajou.ac.kr-4682B4?style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Developer-4682B4?style=for-the-badge&logoColor=white" />&nbsp;
   <br>
-  <img src="https://img.shields.io/badge/박철준-DC143C?style=for-the-badge&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/박철준(Cheoljun Park)-DC143C?style=for-the-badge&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/cheoljun99@kw.ac.kr-DC143C?style=for-the-badge&logo=github&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Firmware%20Developer-DC143C?style=for-the-badge&logoColor=white" />&nbsp;
 </div>
